@@ -1,0 +1,1 @@
+vm_config = { "name" : "web", "vm_size" : "t3.micro" }
