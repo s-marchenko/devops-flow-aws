@@ -29,7 +29,7 @@ override.tf.json
 # example: *tfplan*
 
 # Not to push key files into the repo
-key
+**/key
 
 # IDE files
 .idea

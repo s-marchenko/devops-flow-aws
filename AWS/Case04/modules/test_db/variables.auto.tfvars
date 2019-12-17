@@ -1,0 +1,1 @@
+//db_config = { "name" : "peopleDatabase", "db_size" : "db.t2.micro", env_tag : "dev" }

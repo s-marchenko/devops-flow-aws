@@ -9,5 +9,6 @@ resource "aws_db_instance" "default" {
   username            = "devops"
   password            = "foobarbaz"
   skip_final_snapshot = true
+  publicly_accessible = true
 }
 
